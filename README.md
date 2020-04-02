@@ -1,12 +1,14 @@
-## Welcome to GitHub Pages
+# Jonathan Cook
+## Theoretical Physics undergraduate
+### University College London
+### 133 Brecknock Road, Tufnell Park
+### London, N19 5AE
+### United Kingdom
 
-You can use the [editor on GitHub](https://github.com/jonathan-cook235/Jonathan-Cook/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[params.social]]
+   icon = "linkedin"
+   icon_pack = "fa"
+   link = "//linkedin.com/in/USERNAME"
 
 ```markdown
 Syntax highlighted code block
