@@ -1,5 +1,6 @@
 theme: jekyll-theme-leap-day
-[params.social]
-   icon = "linkedin"
-   icon_pack = "fa"
-   link = "//linkedin.com/in/jonathan-cook-78339618a/"
+footer_links: 
+   title: "linkedin"
+   url: https://www.linkedin.com/in/jonathan-cook-78339618a/
+   icon: fab fa-linkedin
+   
