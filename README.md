@@ -5,11 +5,6 @@
 ### London, N19 5AE
 ### United Kingdom
 
-[[params.social]]
-   icon = "linkedin"
-   icon_pack = "fa"
-   link = "//linkedin.com/in/USERNAME"
-
 ```markdown
 Syntax highlighted code block
 
