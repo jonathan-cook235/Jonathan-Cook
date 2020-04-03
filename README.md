@@ -1,13 +1,12 @@
 <head>
-  # Jonathan Cook
+  Jonathan Cook
   Theoretical Physics undergraduate
-  University College London
-  133 Brecknock Road, Tufnell Park
-  London, N19 5AE
-  United Kingdom
-</head>
-
-[https://www.linkedin.com/in/jonathan-cook-78339618a/]
+ </head>
+ 
+University College London
+133 Brecknock Road, Tufnell Park
+London, N19 5AE
+United Kingdom
 
 ```markdown
 Syntax highlighted code block
