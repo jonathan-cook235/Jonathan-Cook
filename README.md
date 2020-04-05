@@ -9,6 +9,8 @@
   London, N19 5AE
   United Kingdom
  </head>
+ 
+ [linkedin]
 
 # About me
 
