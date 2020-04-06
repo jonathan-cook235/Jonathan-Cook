@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://avatars2.githubusercontent.com/u/61160978?s=96&v=4">
+<img align="right" width="300" height="300" src="https://avatars0.githubusercontent.com/u/61160978?s=460&u=d9c759a499320cbfd641c213e420cf86785b9f46&v=4">
 
 # Jonathan Cook
 ### Theoretical Physics Undergraduate
