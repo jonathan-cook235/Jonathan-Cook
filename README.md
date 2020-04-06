@@ -1,18 +1,13 @@
-<img align="right" width="100" height="100" src="https://avatars2.githubusercontent.com/u/61160978?s=96&v=4">
+<img align="right" width="300" height="300" src="https://avatars2.githubusercontent.com/u/61160978?s=96&v=4">
 
 # Jonathan Cook
 ### Theoretical Physics Undergraduate
-
-<head>
-  University College London<br/>
-  133 Brecknock Road, Tufnell Park<br/>
-  London, N19 5AE<br/>
-  United Kingdom
- </head>
+### University College London
  
+ <br/>
  <a href="https://www.linkedin.com/in/jonathan-cook-78339618a/
 " target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" 
-width="120" height="90" border="10" /></a>
+width="50" height="50" /></a>
 
 ## About me
 
