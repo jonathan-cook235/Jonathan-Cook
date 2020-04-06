@@ -1,4 +1,4 @@
-<img align="right" width="300" height="300" src="https://avatars0.githubusercontent.com/u/61160978?s=460&u=d9c759a499320cbfd641c213e420cf86785b9f46&v=4">
+<img align="right" width="200" height="200" src="https://avatars0.githubusercontent.com/u/61160978?s=460&u=d9c759a499320cbfd641c213e420cf86785b9f46&v=4">
 
 # Jonathan Cook
 ### Theoretical Physics Undergraduate
@@ -7,7 +7,7 @@
  <br/>
  <a href="https://www.linkedin.com/in/jonathan-cook-78339618a/
 " target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" 
-width="50" height="50" /></a>
+width="30" height="30" /></a>
 
 ## About me
 
