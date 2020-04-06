@@ -10,7 +10,9 @@
   United Kingdom
  </head>
  
- [linkedin]
+ <a href="https://www.linkedin.com/in/jonathan-cook-78339618a/
+" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FTimeline_of_LinkedIn&psig=AOvVaw0qOWFK6UvRzi0uBMUc0hkr&ust=1586253602196000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCe06bF0-gCFQAAAAAdAAAAABAH" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # About me
 
