@@ -8,6 +8,9 @@
  <a href="https://www.linkedin.com/in/jonathan-cook-78339618a/
 " target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" 
 width="30" height="30" /></a>
+ <a href="jonathan.cook235@gmail.com
+" target="_blank"><img src="https://i0.wp.com/pinkeyegraphics.co.uk/wp-content/uploads/Gmail-icon.png?fit=512%2C512&ssl=1" 
+width="30" height="30" /></a>
 
 ## About me
 
