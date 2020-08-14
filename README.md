@@ -14,7 +14,7 @@ width="30" height="30" /></a>
 
 ## About me
 
-I am a second year undergraduate student, reading Theoretical Physics at [University College London (UCL)](https://www.ucl.ac.uk). During my first year of study, I worked with London Blockchain Labs on consulting in blockchain education and innovation, before taking part in a Technology Spring Insight Programme at Morgan Stanley. Tangentially to my course, I am now conducting personal research into machine learning methods for social simulation. 
+My Undergraduate training is in Theoretical Physics at University College London. During my undergraduate studies, I worked with London Blockchain Labs on consulting in blockchain education and innovation and took part in a Technology Spring Insight Programme at Morgan Stanley. I am now conducting supervised research into machine learning models for detecting the spread of misinformation on social media sites with the Web Intelligence Group at the UCL Centre for Artificial Intelligence. 
 
 ## News
 
