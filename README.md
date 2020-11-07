@@ -14,9 +14,12 @@ width="30" height="30" /></a>
 
 ## About me
 
-My Undergraduate training is in Theoretical Physics at University College London. During my undergraduate studies, I worked with London Blockchain Labs on consulting in blockchain education and innovation and took part in a Technology Spring Insight Programme at Morgan Stanley. I am now conducting supervised research into machine learning models for detecting the spread of misinformation on social media sites with the Web Intelligence Group at the UCL Centre for Artificial Intelligence. 
+My Undergraduate training is in Theoretical Physics at University College London. Along side my undergraduate studies, I have worked with London Blockchain Labs on consulting in blockchain education and innovation and took part in a Technology Spring Insight Programme at Morgan Stanley. I have conducted supervised research into machine learning models for detecting the spread of misinformation on social media sites with the Web Intelligence Group at the UCL Centre for Artificial Intelligence. I am an author of the associated paper now under anonymous peer review for publication in an international AI conference. I am currently working on automated lexical semantic change detection.
 
 ## News
+
+**October 2020**
+Misinformation detection research paper submitted for publication.
 
 **March 2020**
 [Research paper](https://github.com/jonathan-cook235/ideation/blob/master/Why%20We%20Disagree.pdf) drafted for social simulation Parkinson's Law study.
